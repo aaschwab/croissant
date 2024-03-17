@@ -1,0 +1,22 @@
+img {
+  max-width: 400px;
+  border: solid 1px;
+}
+body {
+  text-align: center;
+  background-color: rgb(255, 228, 118);
+  max-width: 600px;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+}
+a:visited {
+  color: green;
+  background-color: transparent;
+}
+a:active {
+  color: green;
+  background-color: transparent;
+}
